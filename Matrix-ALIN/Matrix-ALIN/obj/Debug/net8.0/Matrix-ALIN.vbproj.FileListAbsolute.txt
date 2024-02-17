@@ -1,0 +1,14 @@
+C:\Users\Zhii\source\repos\Matrix-ALIN\Matrix-ALIN\bin\Debug\net8.0\Matrix-ALIN.exe
+C:\Users\Zhii\source\repos\Matrix-ALIN\Matrix-ALIN\bin\Debug\net8.0\Matrix-ALIN.deps.json
+C:\Users\Zhii\source\repos\Matrix-ALIN\Matrix-ALIN\bin\Debug\net8.0\Matrix-ALIN.runtimeconfig.json
+C:\Users\Zhii\source\repos\Matrix-ALIN\Matrix-ALIN\bin\Debug\net8.0\Matrix-ALIN.dll
+C:\Users\Zhii\source\repos\Matrix-ALIN\Matrix-ALIN\bin\Debug\net8.0\Matrix-ALIN.pdb
+C:\Users\Zhii\source\repos\Matrix-ALIN\Matrix-ALIN\obj\Debug\net8.0\Matrix-ALIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhii\source\repos\Matrix-ALIN\Matrix-ALIN\obj\Debug\net8.0\Matrix-ALIN.AssemblyInfoInputs.cache
+C:\Users\Zhii\source\repos\Matrix-ALIN\Matrix-ALIN\obj\Debug\net8.0\Matrix-ALIN.AssemblyInfo.vb
+C:\Users\Zhii\source\repos\Matrix-ALIN\Matrix-ALIN\obj\Debug\net8.0\Matrix-ALIN.vbproj.CoreCompileInputs.cache
+C:\Users\Zhii\source\repos\Matrix-ALIN\Matrix-ALIN\obj\Debug\net8.0\Matrix-ALIN.dll
+C:\Users\Zhii\source\repos\Matrix-ALIN\Matrix-ALIN\obj\Debug\net8.0\refint\Matrix-ALIN.dll
+C:\Users\Zhii\source\repos\Matrix-ALIN\Matrix-ALIN\obj\Debug\net8.0\Matrix-ALIN.pdb
+C:\Users\Zhii\source\repos\Matrix-ALIN\Matrix-ALIN\obj\Debug\net8.0\Matrix-ALIN.genruntimeconfig.cache
+C:\Users\Zhii\source\repos\Matrix-ALIN\Matrix-ALIN\obj\Debug\net8.0\ref\Matrix-ALIN.dll
