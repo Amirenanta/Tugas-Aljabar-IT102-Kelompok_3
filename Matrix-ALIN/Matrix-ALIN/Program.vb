@@ -57,8 +57,9 @@ Module Module1
                 Console.WriteLine("Cofactor Matrix:")
                 PrintMatrix(cofactorMatrix)
             Case 5 ' Linear Vector Transformation
-                ' Implement Linear Vector Transformation here
-                Console.WriteLine("Linear Vector Transformation is not implemented yet.")
+               Dim linearVector = LinearVectorTransformation(MatrixA)
+                Console.WriteLine("Linear Vector Transformation:")
+                PrintMatrix(linearVector)
             Case Else
                 Console.WriteLine("Invalid choice!")
         End Select
@@ -103,7 +104,24 @@ Module Module1
         Next
         Return cofactorMatrix
     End Function
+    Function LinearVectorTransformation(matrix As Double(,), vector As Double()) As Double()
+        Dim rows = matrix.GetLength(0)
+        Dim cols = matrix.GetLength(1)
 
+        If cols <> vector.Length Then
+            Throw New Exception("Matrix and vector dimensions do not match for multiplication.")
+        End If
+
+        Dim result(rows - 1) As Double
+
+        For i As Integer = 0 To rows - 1
+            For j As Integer = 0 To cols - 1
+                result(i) += matrix(i, j) * vector(j)
+            Next
+        Next
+
+        Return result
+    End Function
     Function CalculateMinor(matrix As Integer(,), row As Integer, col As Integer) As Integer
         Dim minorMatrix(1, 1) As Integer
         Dim minorIndexI As Integer = 0
